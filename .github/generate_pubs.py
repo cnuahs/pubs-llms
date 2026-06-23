@@ -158,10 +158,10 @@ def generate_publications(pubs_dir: str, readme_dir: str, group_by_year: bool = 
             by_year.setdefault(year, []).append(citation)
 
         lines = []
-        for year, citations in reversed(list(by_year.items())):
+        for year in sorted(by_year, reverse=True):
             lines.append(f"### {year}")
             lines.append("")
-            lines.extend(citations)
+            lines.extend(by_year[year])
             lines.append("")
         return "\n".join(lines)
 
