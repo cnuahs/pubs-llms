@@ -158,14 +158,14 @@ def generate_publications(pubs_dir: str, readme_dir: str, group_by_year: bool = 
             by_year.setdefault(year, []).append(citation)
 
         lines = []
-        for year, citations in by_year.items():
+        for year, citations in reversed(list(by_year.items())):
             lines.append(f"### {year}")
             lines.append("")
             lines.extend(citations)
             lines.append("")
         return "\n".join(lines)
 
-    return "\n".join(c for _, c in entries) + "\n"
+    return "\n".join(c for _, c in reversed(entries)) + "\n"
 
 
 def update_readme(content: str, readme_path: str, in_place: bool) -> str | None:
