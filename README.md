@@ -40,4 +40,9 @@ Papers are converted from PDF to Markdown using <a href="https://github.com/cnua
   [full text](pubs/hallum2025harms_full.md) | [main](pubs/hallum2025harms_main.md) | [backmatter](pubs/hallum2025harms_backmatter.md) | [appendix](pubs/hallum2025harms_appendix.md)
 - Ramamoorthy, S. et al. (**2025**). **Prediction of Delirium Risk in Mild Cognitive Impairment Using Time-Series Data, Machine Learning and Comorbidity Patterns -- A Retrospective Study** *IEEE J. Biomed. Heal. Inform.*, 29, 8791-8798.<br>
   [full text](pubs/ramamoorthy2025prediction_full.md) | [main](pubs/ramamoorthy2025prediction_main.md) | [appendix](pubs/ramamoorthy2025prediction_appendix.md)
+
+### 2023
+
+- Yip, H.M.K. et al. (**2023**). **Ocular following responses of the marmoset monkey are dependent on postaccadic delay, spatiotemporal frequency, and saccade direction** *J. Neurophysiol.*, 130, 189-198.<br>
+  [full text](pubs/yip2023ocular_full.md) | [main](pubs/yip2023ocular_main.md) | [backmatter](pubs/yip2023ocular_backmatter.md)
 <!-- PUBLICATIONS_END -->
