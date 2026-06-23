@@ -1,0 +1,49 @@
+name: Generate Publications
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "pubs/**"
+      - ".github/generate_pubs.py"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install bibtexparser pyiso4
+
+      - name: Generate publications section
+        run: python .github/generate_pubs.py --pubs-dir pubs --readme README.md --group-by-year
+
+      - name: Check for changes
+        id: diff
+        run: |
+          if ! git diff --quiet README.md; then
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Create PR with updated README.md file
+        if: steps.diff.outputs.changed == 'true'
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: pubs/auto-update
+          title: "Update publications section"
+          body: "Auto-generated update to the README.md file."
+          commit-message: "Update publications section"
+          add-paths: README.md
+          delete-branch: true
