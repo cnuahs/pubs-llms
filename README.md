@@ -34,6 +34,8 @@ Papers are converted from PDF to Markdown using [inscriber](https://github.com/c
 
 ### 2025
 
+- D'Souza, J.F. et al. (**2025**). **Topographic Organization of Saccade-Related Response Field Properties in the Marmoset Posterior Parietal Cortex** *Eneuro*, 12.<br>
+  [full text](pubs/d_souza2025topographic_full.md) | [main](pubs/d_souza2025topographic_main.md) | [backmatter](pubs/d_souza2025topographic_backmatter.md)
 - Ramamoorthy, S. et al. (**2025**). **Prediction of Delirium Risk in Mild Cognitive Impairment Using Time-Series Data, Machine Learning and Comorbidity Patterns -- A Retrospective Study** *IEEE J. Biomed. Heal. Inform.*, 29, 8791-8798.<br>
   [full text](pubs/ramamoorthy2025prediction_full.md) | [main](pubs/ramamoorthy2025prediction_main.md) | [appendix](pubs/ramamoorthy2025prediction_appendix.md)
 <!-- PUBLICATIONS_END -->
