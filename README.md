@@ -19,7 +19,7 @@ Report an error by raising a GitHub issue and I will endeavour to correct it.
 
 <details>
 <summary>Colophon</summary>
-Papers are converted from PDF to Markdown using [inscriber](https://github.com/cnuahs/docker-inscriber/); [DeepSeek OCR](https://github.com/deepseek-ai/DeepSeek-OCR/) for text and figure/table extraction, and then [Gemma 4 E4B](https://ai.google.dev/gemma/docs/core/) to generate text descriptions of figures and convert tables from html to Markdown.
+Papers are converted from PDF to Markdown using <a href="https://github.com/cnuahs/docker-inscriber/">inscriber</a>; <a href="https://github.com/deepseek-ai/DeepSeek-OCR/">DeepSeek OCR</a> for text and figure/table extraction, and then <a href="https://ai.google.dev/gemma/docs/core/">Gemma 4 E4B</a> to generate text descriptions of figures and convert tables from html to Markdown.
 </details>
 
 <!-- PUBLICATIONS_START -->
