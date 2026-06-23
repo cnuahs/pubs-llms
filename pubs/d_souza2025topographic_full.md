@@ -1,7 +1,7 @@
 ```
 @article{d’souza2025topographic,
   title={Topographic Organization of Saccade-Related Response Field Properties in the Marmoset Posterior Parietal Cortex},
-  author={Joanita F. D''Souza and Jessima M. Rich and Shaun L. Cloherty and Nicholas S. C. Price and Maureen A. Hagan},
+  author={Joanita F. D'Souza and Jessima M. Rich and Shaun L. Cloherty and Nicholas S. C. Price and Maureen A. Hagan},
   year={2025},
   journal={eNeuro},
   volume = {12},
