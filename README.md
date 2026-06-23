@@ -36,6 +36,8 @@ Papers are converted from PDF to Markdown using <a href="https://github.com/cnua
 
 - D'Souza, J.F. et al. (**2025**). **Topographic Organization of Saccade-Related Response Field Properties in the Marmoset Posterior Parietal Cortex** *Eneuro*, 12.<br>
   [full text](pubs/d_souza2025topographic_full.md) | [main](pubs/d_souza2025topographic_main.md) | [backmatter](pubs/d_souza2025topographic_backmatter.md)
+- Hallum, L.E., Cloherty, S.L. (**2025**). **Harms associated with retinal implantation of a stimulating electrode array to treat outer-retinal degeneration: a systematic review and meta-analysis of safety** *Prog. Biomed. Eng.*, 7.<br>
+  [full text](pubs/hallum2025harms_full.md) | [main](pubs/hallum2025harms_main.md) | [backmatter](pubs/hallum2025harms_backmatter.md) | [appendix](pubs/hallum2025harms_appendix.md)
 - Ramamoorthy, S. et al. (**2025**). **Prediction of Delirium Risk in Mild Cognitive Impairment Using Time-Series Data, Machine Learning and Comorbidity Patterns -- A Retrospective Study** *IEEE J. Biomed. Heal. Inform.*, 29, 8791-8798.<br>
   [full text](pubs/ramamoorthy2025prediction_full.md) | [main](pubs/ramamoorthy2025prediction_main.md) | [appendix](pubs/ramamoorthy2025prediction_appendix.md)
 <!-- PUBLICATIONS_END -->
