@@ -45,4 +45,11 @@ Papers are converted from PDF to Markdown using <a href="https://github.com/cnua
 
 - Yip, H.M.K. et al. (**2023**). **Ocular following responses of the marmoset monkey are dependent on postaccadic delay, spatiotemporal frequency, and saccade direction** *J. Neurophysiol.*, 130, 189-198.<br>
   [full text](pubs/yip2023ocular_full.md) | [main](pubs/yip2023ocular_main.md) | [backmatter](pubs/yip2023ocular_backmatter.md)
+
+### 2022
+
+- Choy, C.S. et al. (**2022**). **Virtual Reality Assisted Motor Imagery for Early Post-Stroke Recovery: A Review** *IEEE Rev. Biomed. Eng.*, 16, 487-498.<br>
+  [full text](pubs/choy2022virtual_full.md) | [main](pubs/choy2022virtual_main.md) | [backmatter](pubs/choy2022virtual_backmatter.md)
+- McFadyen, J.R. et al. (**2022**). **Robust Coding of Eye Position in Posterior Parietal Cortex despite Context-Dependent Tuning** *J. Neurosci.*, 42, 4116 - 4130.<br>
+  [full text](pubs/mcfadyen2022robust_full.md) | [main](pubs/mcfadyen2022robust_main.md) | [backmatter](pubs/mcfadyen2022robust_backmatter.md)
 <!-- PUBLICATIONS_END -->
