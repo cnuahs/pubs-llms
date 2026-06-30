@@ -54,4 +54,16 @@ Papers are converted from PDF to Markdown using <a href="https://github.com/cnua
   [full text](pubs/jung2022orientation_full.md) | [main](pubs/jung2022orientation_main.md) | [appendix](pubs/jung2022orientation_appendix.md)
 - McFadyen, J.R. et al. (**2022**). **Robust Coding of Eye Position in Posterior Parietal Cortex despite Context-Dependent Tuning** *J. Neurosci.*, 42, 4116 - 4130.<br>
   [full text](pubs/mcfadyen2022robust_full.md) | [main](pubs/mcfadyen2022robust_main.md) | [backmatter](pubs/mcfadyen2022robust_backmatter.md)
+
+### 2021
+
+- Hallum, L.E., Cloherty, S.L. (**2021**). **Liquid-Crystal Display (LCD) of achromatic, mean-modulated flicker in clinical assessment and experimental studies of visual systems** *Plos ONE*, 16, e0248180.<br>
+  [full text](pubs/hallum2021liquidcrystal_full.md) | [main](pubs/hallum2021liquidcrystal_main.md) | [appendix](pubs/hallum2021liquidcrystal_appendix.md)
+
+### 2020
+
+- Almasi, A. et al. (**2020**). **Mechanisms of Feature Selectivity and Invariance in Primary Visual Cortex** *Cereb. Cortex*, 30, 5067-5087.<br>
+  [full text](pubs/almasi2020mechanisms_full.md) | [main](pubs/almasi2020mechanisms_main.md) | [appendix](pubs/almasi2020mechanisms_appendix.md)
+- Cloherty, S.L. et al. (**2020**). **Motion Perception in the Common Marmoset** *Cereb. Cortex*, 30, 2659-2673.<br>
+  [full text](pubs/cloherty2020motion_full.md) | [main](pubs/cloherty2020motion_main.md) | [backmatter](pubs/cloherty2020motion_backmatter.md)
 <!-- PUBLICATIONS_END -->
