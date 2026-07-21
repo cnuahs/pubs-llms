@@ -75,4 +75,20 @@ Papers are converted from PDF to Markdown using <a href="https://github.com/cnua
   [full text](pubs/yunzab2019comparison_full.md) | [main](pubs/yunzab2019comparison_main.md) | [backmatter](pubs/yunzab2019comparison_backmatter.md)
 - Yunzab, M. et al. (**2019**). **Synaptic Basis for Contrast-Dependent Shifts in Functional Identity in Mouse V1** *Eneuro*, 6.<br>
   [full text](pubs/yunzab2019synaptic_full.md) | [main](pubs/yunzab2019synaptic_main.md) | [backmatter](pubs/yunzab2019synaptic_backmatter.md)
+
+### 2018
+
+- Maturana, M.I. et al. (**2018**). **Electrical receptive fields of retinal ganglion cells: Influence of presynaptic neurons** *Plos Comput. Biol.*, 14.<br>
+  [full text](pubs/maturana2018electrical_full.md) | [main](pubs/maturana2018electrical_main.md) | [backmatter](pubs/maturana2018electrical_backmatter.md)
+
+### 2017
+
+- Halupka, K.J. et al. (**2017**). **Neural Responses to Multielectrode Stimulation of Healthy and Degenerate Retina.** *Investig. Ophthalmol.\& Vis. Sci.*, 58 9, 3770-3784.<br>
+  [full text](pubs/halupka2017neural_full.md) | [main](pubs/halupka2017neural_main.md) | [backmatter](pubs/halupka2017neural_backmatter.md)
+- Halupka, K.J. et al. (**2017**). **Prediction of cortical responses to simultaneous electrical stimulation of the retina** *J. Neural Eng.*, 14, 016006.<br>
+  [full text](pubs/halupka2017prediction_full.md) | [main](pubs/halupka2017prediction_main.md) | [backmatter](pubs/halupka2017prediction_backmatter.md)
+- Hietanen, M.A. et al. (**2017**). **Long-term sensorimotor adaptation in the ocular following system of primates** *Plos ONE*, 12.<br>
+  [full text](pubs/hietanen2017longterm_full.md) | [main](pubs/hietanen2017longterm_main.md) | [appendix](pubs/hietanen2017longterm_appendix.md)
+- Nummela, S.U. et al. (**2017**). **Psychophysical measurement of marmoset acuity and myopia** *Dev. Neurobiol.*, 77, 300-313.<br>
+  [full text](pubs/nummela2017psychophysical_full.md) | [main](pubs/nummela2017psychophysical_main.md) | [backmatter](pubs/nummela2017psychophysical_backmatter.md)
 <!-- PUBLICATIONS_END -->
