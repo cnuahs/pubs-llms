@@ -91,4 +91,22 @@ Papers are converted from PDF to Markdown using <a href="https://github.com/cnua
   [full text](pubs/hietanen2017longterm_full.md) | [main](pubs/hietanen2017longterm_main.md) | [appendix](pubs/hietanen2017longterm_appendix.md)
 - Nummela, S.U. et al. (**2017**). **Psychophysical measurement of marmoset acuity and myopia** *Dev. Neurobiol.*, 77, 300-313.<br>
   [full text](pubs/nummela2017psychophysical_full.md) | [main](pubs/nummela2017psychophysical_main.md) | [backmatter](pubs/nummela2017psychophysical_backmatter.md)
+
+### 2016
+
+- Cloherty, S.L. et al. (**2016**). **Sensory experience modifies feature map relationships in visual cortex** *Elife*, 5, e13911.<br>
+  [full text](pubs/cloherty2016sensory_full.md) | [main](pubs/cloherty2016sensory_main.md) | [backmatter](pubs/cloherty2016sensory_backmatter.md)
+- Hadjinicolaou, A.E. et al. (**2016**). **Frequency Responses of Rat Retinal Ganglion Cells** *Plos ONE*, 11.<br>
+  [full text](pubs/hadjinicolaou2016frequency_full.md) | [main](pubs/hadjinicolaou2016frequency_main.md) | [backmatter](pubs/hadjinicolaou2016frequency_backmatter.md)
+- Kameneva, T. et al. (**2016**). **Retinal ganglion cells: mechanisms underlying depolarization block and differential responses to high frequency electrical stimulation of ON and OFF cells** *J. Neural Eng.*, 13, 016017.<br>
+  [full text](pubs/kameneva2016retinal_full.md) | [main](pubs/kameneva2016retinal_main.md) | [backmatter](pubs/kameneva2016retinal_backmatter.md)
+- Maturana, M.I. et al. (**2016**). **A Simple and Accurate Model to Predict Responses to Multi-electrode Stimulation in the Retina** *Plos Comput. Biol.*, 12.<br>
+  [full text](pubs/maturana2016simple_full.md) | [main](pubs/maturana2016simple_main.md) | [backmatter](pubs/maturana2016simple_backmatter.md)
+- Wong, Y.T. et al. (**2016**). **Spectral distribution of local field potential responses to electrical stimulation of the retina** *J. Neural Eng.*, 13, 036003.<br>
+  [full text](pubs/wong2016spectral_full.md) | [main](pubs/wong2016spectral_main.md) | [backmatter](pubs/wong2016spectral_backmatter.md)
+
+### 2015
+
+- Hietanen, M.A., Cloherty, S.L., Ibbotson, M.R. (**2015**). **Contrast and response gain control depend on cortical map architecture** *Eur. J. Neurosci.*, 42, 2963-2973.<br>
+  [full text](pubs/hietanen2015contrast_full.md) | [main](pubs/hietanen2015contrast_main.md) | [backmatter](pubs/hietanen2015contrast_backmatter.md)
 <!-- PUBLICATIONS_END -->
