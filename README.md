@@ -107,12 +107,21 @@ Papers are converted from PDF to Markdown using <a href="https://github.com/cnua
 
 ### 2015
 
+- Cloherty, S.L., Ibbotson, M.R. (**2015**). **Contrast-dependent phase sensitivity in V1 but not V2 of macaque visual cortex.** *J. Neurophysiol.*, 113, 434-444.<br>
+  [full text](pubs/cloherty2015contrastdependent_full.md) | [main](pubs/cloherty2015contrastdependent_main.md) | [backmatter](pubs/cloherty2015contrastdependent_backmatter.md)
 - Cloherty, S.L. et al. (**2015**). **Saccade-induced image motion cannot account for post-saccadic enhancement of visual processing in primate MST** *Front., Syst, Neurosci,*, 9, 122.<br>
   [full text](pubs/cloherty2015saccadeinduced_full.md) | [main](pubs/cloherty2015saccadeinduced_main.md) | [backmatter](pubs/cloherty2015saccadeinduced_backmatter.md)
+- Hadjinicolaou, A.E. et al. (**2015**). **Optimizing the Electrical Stimulation of Retinal Ganglion Cells** *IEEE Trans. Neural Syst. Rehabil. Eng.*, 23, 169-178.<br>
+  [full text](pubs/hadjinicolaou2015optimizing_full.md) | [main](pubs/hadjinicolaou2015optimizing_main.md) | [backmatter](pubs/hadjinicolaou2015optimizing_backmatter.md)
 - Hadjinicolaou, A.E. et al. (**2015**). **Prosthetic vision: devices, patient outcomes and retinal research** *Clin. Exp. Optom.*, 98, 395-410.<br>
   [full text](pubs/hadjinicolaou2015prosthetic_full.md) | [main](pubs/hadjinicolaou2015prosthetic_main.md) | [backmatter](pubs/hadjinicolaou2015prosthetic_backmatter.md)
 - Hietanen, M.A., Cloherty, S.L., Ibbotson, M.R. (**2015**). **Contrast and response gain control depend on cortical map architecture** *Eur. J. Neurosci.*, 42, 2963-2973.<br>
   [full text](pubs/hietanen2015contrast_full.md) | [main](pubs/hietanen2015contrast_main.md) | [backmatter](pubs/hietanen2015contrast_backmatter.md)
 - Meffin, H. et al. (**2015**). **Spatial phase sensitivity of complex cells in primary visual cortex depends on stimulus contrast** *J. Neurophysiol.*, 114, 3326-3338.<br>
   [full text](pubs/meffin2015spatial_full.md) | [main](pubs/meffin2015spatial_main.md) | [backmatter](pubs/meffin2015spatial_backmatter.md)
+
+### 2014
+
+- Hughes, N.J. et al. (**2014**). **Stripe-rearing changes multiple aspects of the structure of primary visual cortex** *Neuroimage*, 95, 305-319.<br>
+  [full text](pubs/hughes2014striperearing_full.md) | [main](pubs/hughes2014striperearing_main.md) | [backmatter](pubs/hughes2014striperearing_backmatter.md)
 <!-- PUBLICATIONS_END -->
