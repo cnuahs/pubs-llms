@@ -124,4 +124,65 @@ Papers are converted from PDF to Markdown using <a href="https://github.com/cnua
 
 - Hughes, N.J. et al. (**2014**). **Stripe-rearing changes multiple aspects of the structure of primary visual cortex** *Neuroimage*, 95, 305-319.<br>
   [full text](pubs/hughes2014striperearing_full.md) | [main](pubs/hughes2014striperearing_main.md) | [backmatter](pubs/hughes2014striperearing_backmatter.md)
+
+### 2013
+
+- Hietanen, M.A. et al. (**2013**). **Phase sensitivity of complex cells in primary visual cortex.** *Neuroscience*, 237, 19-28.<br>
+  [full text](pubs/hietanen2013phase_full.md) | [main](pubs/hietanen2013phase_main.md) | [backmatter](pubs/hietanen2013phase_backmatter.md) | [appendix](pubs/hietanen2013phase_appendix.md)
+
+### 2012
+
+- Wong, R.C.S. et al. (**2012**). **Intrinsic physiological properties of rat retinal ganglion cells with a comparative analysis.** *J. Neurophysiol.*, 108, 2008-2023.<br>
+  [full text](pubs/wong2012intrinsic_full.md) | [main](pubs/wong2012intrinsic_main.md) | [backmatter](pubs/wong2012intrinsic_backmatter.md)
+
+### 2010
+
+- Cloherty, S.L. et al. (**2010**). **Effects of saccades on visual processing in primate MSTd** *Vis. Res.*, 50, 2683-2691.<br>
+  [full text](pubs/cloherty2010effects_full.md) | [main](pubs/cloherty2010effects_main.md) | [backmatter](pubs/cloherty2010effects_backmatter.md)
+- Hietanen, M.A. et al. (**2010**). **Differential changes in perceived contrast following contrast adaptation in humans.** *Vis. Res.*, 50, 12-9.<br>
+  [full text](pubs/hietanen2010differential_full.md) | [main](pubs/hietanen2010differential_main.md) | [backmatter](pubs/hietanen2010differential_backmatter.md)
+- Lim, E. et al. (**2010**). **Parameter-Optimized Model of Cardiovascular–Rotary Blood Pump Interactions** *IEEE Trans. Biomed. Eng.*, 57, 254-266.<br>
+  [full text](pubs/lim2010parameteroptimized_full.md) | [main](pubs/lim2010parameteroptimized_main.md) | [appendix](pubs/lim2010parameteroptimized_appendix.md)
+- Kleef, J.P.V., Cloherty, S.L., Ibbotson, M.R. (**2010**). **Complex cell receptive fields: evidence for a hierarchical mechanism** *J. Physiol.*, 588.<br>
+  [full text](pubs/vankleef2010complex_full.md) | [main](pubs/vankleef2010complex_main.md) | [backmatter](pubs/vankleef2010complex_backmatter.md)
+
+### 2009
+
+- Ibbotson, M.R., Cloherty, S.L. (**2009**). **Visual perception: saccadic omission--suppression or temporal masking?** *Curr. Biol.*, 19, R493-6.<br>
+  [full text](pubs/ibbotson2009visual_full.md) | [main](pubs/ibbotson2009visual_main.md) | [backmatter](pubs/ibbotson2009visual_backmatter.md)
+
+### 2008
+
+- Hallum, L.E., Cloherty, S.L., Lovell, N.H. (**2008**). **Image Analysis for Microelectronic Retinal Prosthesis** *IEEE Trans. Biomed. Eng.*, 55, 344-346.<br>
+  [full text](pubs/hallum2008image_full.md) | [main](pubs/hallum2008image_main.md) | [backmatter](pubs/hallum2008image_backmatter.md)
+- Ibbotson, M.R. et al. (**2008**). **Saccadic Modulation of Neural Responses: Possible Roles in Saccadic Suppression, Enhancement, and Time Compression** *J. Neurosci.*, 28, 10952-10960.<br>
+  [full text](pubs/ibbotson2008saccadic_full.md) | [main](pubs/ibbotson2008saccadic_main.md) | [backmatter](pubs/ibbotson2008saccadic_backmatter.md)
+- Lim, E. et al. (**2008**). **Noninvasive Average Flow and Differential Pressure Estimation for an Implantable Rotary Blood Pump Using Dimensional Analysis** *IEEE Trans. Biomed. Eng.*, 55, 2094-2101.<br>
+  [full text](pubs/lim2008noninvasive_full.md) | [main](pubs/lim2008noninvasive_main.md) | [appendix](pubs/lim2008noninvasive_appendix.md)
+
+### 2007
+
+- Karantonis, D.M. et al. (**2007**). **Classification of Physiologically Significant Pumping States in an Implantable Rotary Blood Pump: Patient Trial Results** *ASAIO J.*, 53, 617-622.<br>
+  [full text](pubs/karantonis2007classification_full.md) | [main](pubs/karantonis2007classification_main.md) | [backmatter](pubs/karantonis2007classification_backmatter.md)
+- Karantonis, D.M. et al. (**2007**). **Classification of physiologically significant pumping states in an implantable rotary blood pump: effects of cardiac rhythm disturbances.** *Artif. Organs*, 31, 476-479.<br>
+  [full text](pubs/karantonis2007classificationop_full.md) | [main](pubs/karantonis2007classificationop_main.md) | [backmatter](pubs/karantonis2007classificationop_backmatter.md)
+- Malagutti, N. et al. (**2007**). **Noninvasive average flow estimation for an implantable rotary blood pump: a new algorithm incorporating the role of blood viscosity.** *Artif. Organs*, 31, 45-52.<br>
+  [full text](pubs/malagutti2007noninvasive_full.md) | [main](pubs/malagutti2007noninvasive_main.md) | [backmatter](pubs/malagutti2007noninvasive_backmatter.md)
+
+### 2006
+
+- Cloherty, S.L., Dokos, S., Lovell, N.H. (**2006**). **A comparison of 1-D models of cardiac pacemaker heterogeneity** *IEEE Trans. Biomed. Eng.*, 53, 164-177.<br>
+  [full text](pubs/cloherty2006comparison_full.md) | [main](pubs/cloherty2006comparison_main.md) | [backmatter](pubs/cloherty2006comparison_backmatter.md)
+- Karantonis, D.M. et al. (**2006**). **Identification and classification of physiologically significant pumping states in an implantable rotary blood pump.** *Artif. Organs*, 30, 671-679.<br>
+  [full text](pubs/karantonis2006identification_full.md) | [main](pubs/karantonis2006identification_main.md) | [backmatter](pubs/karantonis2006identification_backmatter.md)
+
+### 2004
+
+- Lovell, N.H. et al. (**2004**). **A gradient model of cardiac pacemaker myocytes.** *Prog. Biophys. Mol. Biol.*, 85, 301-323.<br>
+  [full text](pubs/lovell2004gradient_full.md) | [main](pubs/lovell2004gradient_main.md) | [appendix](pubs/lovell2004gradient_appendix.md)
+
+### 2001
+
+- Cloherty, S.L. et al. (**2001**). **Inhomogeneity of action potential waveshape assists frequency entrainment of cardiac pacemaker cells** *IEEE Trans. Biomed. Eng.*, 48, 1108-1115.<br>
+  [full text](pubs/cloherty2001inhomogeneity_full.md) | [main](pubs/cloherty2001inhomogeneity_main.md) | [appendix](pubs/cloherty2001inhomogeneity_appendix.md)
 <!-- PUBLICATIONS_END -->
