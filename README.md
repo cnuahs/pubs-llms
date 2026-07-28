@@ -117,6 +117,8 @@ Papers are converted from PDF to Markdown using <a href="https://github.com/cnua
   [full text](pubs/hadjinicolaou2015prosthetic_full.md) | [main](pubs/hadjinicolaou2015prosthetic_main.md) | [backmatter](pubs/hadjinicolaou2015prosthetic_backmatter.md)
 - Hietanen, M.A., Cloherty, S.L., Ibbotson, M.R. (**2015**). **Contrast and response gain control depend on cortical map architecture** *Eur. J. Neurosci.*, 42, 2963-2973.<br>
   [full text](pubs/hietanen2015contrast_full.md) | [main](pubs/hietanen2015contrast_main.md) | [backmatter](pubs/hietanen2015contrast_backmatter.md)
+- Maturana, M.I. et al. (**2015**). **The effects of temperature changes on retinal ganglion cell responses to electrical stimulation** *37Th Annu. Int. Conf. IEEE Eng. Med. Biol. Soc. (EMBC)*, 7506-7509.<br>
+  [full text](pubs/maturana2015effects_full.md) | [main](pubs/maturana2015effects_main.md) | [backmatter](pubs/maturana2015effects_backmatter.md)
 - Meffin, H. et al. (**2015**). **Spatial phase sensitivity of complex cells in primary visual cortex depends on stimulus contrast** *J. Neurophysiol.*, 114, 3326-3338.<br>
   [full text](pubs/meffin2015spatial_full.md) | [main](pubs/meffin2015spatial_main.md) | [backmatter](pubs/meffin2015spatial_backmatter.md)
 
