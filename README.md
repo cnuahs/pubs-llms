@@ -117,6 +117,8 @@ Papers are converted from PDF to Markdown using <a href="https://github.com/cnua
   [full text](pubs/hadjinicolaou2015prosthetic_full.md) | [main](pubs/hadjinicolaou2015prosthetic_main.md) | [backmatter](pubs/hadjinicolaou2015prosthetic_backmatter.md)
 - Hietanen, M.A., Cloherty, S.L., Ibbotson, M.R. (**2015**). **Contrast and response gain control depend on cortical map architecture** *Eur. J. Neurosci.*, 42, 2963-2973.<br>
   [full text](pubs/hietanen2015contrast_full.md) | [main](pubs/hietanen2015contrast_main.md) | [backmatter](pubs/hietanen2015contrast_backmatter.md)
+- Maturana, M.I. et al. (**2015**). **The effects of temperature changes on retinal ganglion cell responses to electrical stimulation** *37Th Annu. Int. Conf. IEEE Eng. Med. Biol. Soc. (EMBC)*, 7506-7509.<br>
+  [full text](pubs/maturana2015effects_full.md) | [main](pubs/maturana2015effects_main.md) | [backmatter](pubs/maturana2015effects_backmatter.md)
 - Meffin, H. et al. (**2015**). **Spatial phase sensitivity of complex cells in primary visual cortex depends on stimulus contrast** *J. Neurophysiol.*, 114, 3326-3338.<br>
   [full text](pubs/meffin2015spatial_full.md) | [main](pubs/meffin2015spatial_main.md) | [backmatter](pubs/meffin2015spatial_backmatter.md)
 
@@ -124,14 +126,20 @@ Papers are converted from PDF to Markdown using <a href="https://github.com/cnua
 
 - Hughes, N.J. et al. (**2014**). **Stripe-rearing changes multiple aspects of the structure of primary visual cortex** *Neuroimage*, 95, 305-319.<br>
   [full text](pubs/hughes2014striperearing_full.md) | [main](pubs/hughes2014striperearing_main.md) | [backmatter](pubs/hughes2014striperearing_backmatter.md)
+- Wong, R.C.S. et al. (**2014**). **Efficacy of electrical stimulation of retinal ganglion cells with temporal patterns resembling light-evoked spike trains** *36Th Annu. Int. Conf. IEEE Eng. Med. Biol. Soc.*, 1707-1710.<br>
+  [full text](pubs/wong2014efficacy_full.md) | [main](pubs/wong2014efficacy_main.md) | [backmatter](pubs/wong2014efficacy_backmatter.md)
 
 ### 2013
 
 - Hietanen, M.A. et al. (**2013**). **Phase sensitivity of complex cells in primary visual cortex.** *Neuroscience*, 237, 19-28.<br>
   [full text](pubs/hietanen2013phase_full.md) | [main](pubs/hietanen2013phase_main.md) | [backmatter](pubs/hietanen2013phase_backmatter.md) | [appendix](pubs/hietanen2013phase_appendix.md)
+- Maturana, M.I. et al. (**2013**). **Retinal ganglion cells electrophysiology: The effect of cell morphology on impulse waveform** *35Th Annu. Int. Conf. IEEE Eng. Med. Biol. Soc. (EMBC)*, 2583-2586.<br>
+  [full text](pubs/maturana2013retinal_full.md) | [main](pubs/maturana2013retinal_main.md) | [backmatter](pubs/maturana2013retinal_backmatter.md)
 
 ### 2012
 
+- Cloherty, S.L. et al. (**2012**). **Epiretinal electrical stimulation and the inner limiting membrane in rat retina** *34Th Annu. Int. Conf. IEEE Eng. Med. Biol. Soc.*, 2989-2992.<br>
+  [full text](pubs/cloherty2012epiretinal_full.md) | [main](pubs/cloherty2012epiretinal_main.md) | [backmatter](pubs/cloherty2012epiretinal_backmatter.md)
 - Wong, R.C.S. et al. (**2012**). **Intrinsic physiological properties of rat retinal ganglion cells with a comparative analysis.** *J. Neurophysiol.*, 108, 2008-2023.<br>
   [full text](pubs/wong2012intrinsic_full.md) | [main](pubs/wong2012intrinsic_main.md) | [backmatter](pubs/wong2012intrinsic_backmatter.md)
 
@@ -139,6 +147,8 @@ Papers are converted from PDF to Markdown using <a href="https://github.com/cnua
 
 - Cloherty, S.L. et al. (**2010**). **Effects of saccades on visual processing in primate MSTd** *Vis. Res.*, 50, 2683-2691.<br>
   [full text](pubs/cloherty2010effects_full.md) | [main](pubs/cloherty2010effects_main.md) | [backmatter](pubs/cloherty2010effects_backmatter.md)
+- Cloherty, S.L. et al. (**2010**). **Focal activation of primary visual cortex following supra-choroidal electrical stimulation of the retina: Intrinsic signal imaging and linear model analysis** *32Nd Annu. Int. Conf. IEEE Eng. Med. Biol. Soc.*, 6765-6768.<br>
+  [full text](pubs/cloherty2010focal_full.md) | [main](pubs/cloherty2010focal_main.md) | [backmatter](pubs/cloherty2010focal_backmatter.md)
 - Hietanen, M.A. et al. (**2010**). **Differential changes in perceived contrast following contrast adaptation in humans.** *Vis. Res.*, 50, 12-9.<br>
   [full text](pubs/hietanen2010differential_full.md) | [main](pubs/hietanen2010differential_main.md) | [backmatter](pubs/hietanen2010differential_backmatter.md)
 - Lim, E. et al. (**2010**). **Parameter-Optimized Model of Cardiovascular–Rotary Blood Pump Interactions** *IEEE Trans. Biomed. Eng.*, 57, 254-266.<br>
@@ -162,27 +172,69 @@ Papers are converted from PDF to Markdown using <a href="https://github.com/cnua
 
 ### 2007
 
+- Chen, S.C. et al. (**2007**). **Optical Imaging of Electrically Evoked Visual Signals in Cats: II. ICA "Harmonic Filtering" Noise Reduction** *29Th Annu. Int. Conf. IEEE Eng. Med. Biol. Soc.*, 3380-3383.<br>
+  [full text](pubs/chen2007optical_full.md) | [main](pubs/chen2007optical_main.md) | [backmatter](pubs/chen2007optical_backmatter.md)
+- Dokos, S., Cloherty, S.L., Lovell, N.H. (**2007**). **Computational Model of Atrial Electrical Activation and Propagation** *29Th Annu. Int. Conf. IEEE Eng. Med. Biol. Soc.*, 908-911.<br>
+  [full text](pubs/dokos2007computational_full.md) | [main](pubs/dokos2007computational_main.md) | [backmatter](pubs/dokos2007computational_backmatter.md)
 - Karantonis, D.M. et al. (**2007**). **Classification of Physiologically Significant Pumping States in an Implantable Rotary Blood Pump: Patient Trial Results** *ASAIO J.*, 53, 617-622.<br>
   [full text](pubs/karantonis2007classification_full.md) | [main](pubs/karantonis2007classification_main.md) | [backmatter](pubs/karantonis2007classification_backmatter.md)
 - Karantonis, D.M. et al. (**2007**). **Classification of physiologically significant pumping states in an implantable rotary blood pump: effects of cardiac rhythm disturbances.** *Artif. Organs*, 31, 476-479.<br>
   [full text](pubs/karantonis2007classificationop_full.md) | [main](pubs/karantonis2007classificationop_main.md) | [backmatter](pubs/karantonis2007classificationop_backmatter.md)
+- Karantonis, D.M. et al. (**2007**). **Noninvasive Pulsatile Flow Estimation for an Implantable Rotary Blood Pump** *29Th Annu. Int. Conf. IEEE Eng. Med. Biol. Soc.*, 1018-1021.<br>
+  [full text](pubs/karantonis2007noninvasive_full.md) | [main](pubs/karantonis2007noninvasive_main.md) | [backmatter](pubs/karantonis2007noninvasive_backmatter.md)
+- Lim, E. et al. (**2007**). **A Dynamic Lumped Parameter Model of the Left Ventricular Assisted Circulation** *29Th Annu. Int. Conf. IEEE Eng. Med. Biol. Soc.*, 3990-3993.<br>
+  [full text](pubs/lim2007dynamic_full.md) | [main](pubs/lim2007dynamic_main.md) | [backmatter](pubs/lim2007dynamic_backmatter.md)
 - Malagutti, N. et al. (**2007**). **Noninvasive average flow estimation for an implantable rotary blood pump: a new algorithm incorporating the role of blood viscosity.** *Artif. Organs*, 31, 45-52.<br>
   [full text](pubs/malagutti2007noninvasive_full.md) | [main](pubs/malagutti2007noninvasive_main.md) | [backmatter](pubs/malagutti2007noninvasive_backmatter.md)
+- Wong, Y.T. et al. (**2007**). **Optical Imaging of Electrically Evoked Visual Signals in Cats: I. Responses to Corneal and Intravitreal Electrical Stimulation** *2007 29Th Annu. Int. Conf. IEEE Eng. Med. Biol. Soc.*, 1635-1638.<br>
+  [full text](pubs/wong2007optical_full.md) | [main](pubs/wong2007optical_main.md) | [backmatter](pubs/wong2007optical_backmatter.md)
 
 ### 2006
 
 - Cloherty, S.L., Dokos, S., Lovell, N.H. (**2006**). **A comparison of 1-D models of cardiac pacemaker heterogeneity** *IEEE Trans. Biomed. Eng.*, 53, 164-177.<br>
   [full text](pubs/cloherty2006comparison_full.md) | [main](pubs/cloherty2006comparison_main.md) | [backmatter](pubs/cloherty2006comparison_backmatter.md)
+- Hallum, L.E. et al. (**2006**). **Psychophysics of Prosthetic Vision: III. Stochastic Rendering, the Phosphene Image, and Perception** *28Th Annu. Int. Conf. IEEE Eng. Med. Biol. Soc.*, 1169-1172.<br>
+  [full text](pubs/hallum2006rendering_full.md) | [main](pubs/hallum2006rendering_main.md) | [backmatter](pubs/hallum2006rendering_backmatter.md)
+- Hallum, L.E. et al. (**2006**). **Psychophysics of Prosthetic Vision: II. Stochastic Sampling, the Phosphene Image, and Noise** *28Th Annu. Int. Conf. IEEE Eng. Med. Biol. Soc.*, 1634-1637.<br>
+  [full text](pubs/hallum2006sampling_full.md) | [main](pubs/hallum2006sampling_main.md) | [backmatter](pubs/hallum2006sampling_backmatter.md)
+- Karantonis, D.M. et al. (**2006**). **Automated Non-invasive Detection of Pumping States in an Implantable Rotary Blood Pump** *28Th Annu. Int. Conf. IEEE Eng. Med. Biol. Soc.*, 5386-5389.<br>
+  [full text](pubs/karantonis2006automated_full.md) | [main](pubs/karantonis2006automated_main.md) | [backmatter](pubs/karantonis2006automated_backmatter.md)
 - Karantonis, D.M. et al. (**2006**). **Identification and classification of physiologically significant pumping states in an implantable rotary blood pump.** *Artif. Organs*, 30, 671-679.<br>
   [full text](pubs/karantonis2006identification_full.md) | [main](pubs/karantonis2006identification_main.md) | [backmatter](pubs/karantonis2006identification_backmatter.md)
+
+### 2005
+
+- Cloherty, S.L., Dokos, S., Lovell, N.H. (**2005**). **Qualitative Support for the Gradient Model of Cardiac Pacemaker Heterogeneity** *27Th Annu. Conf. IEEE Eng. Med. Biol. Soc.*, 133-136.<br>
+  [full text](pubs/cloherty2005qualitative_full.md) | [main](pubs/cloherty2005qualitative_main.md) | [backmatter](pubs/cloherty2005qualitative_backmatter.md)
+- Lovell, N.H. et al. (**2005**). **Current Distribution During Parallel Stimulation: Implications for an Epiretinal Neuroprosthesis** *27Th Annu. Int. Conf. IEEE Eng. Med. Biol. Soc.*, 5242-5245.<br>
+  [full text](pubs/lovell2005current_full.md) | [main](pubs/lovell2005current_main.md) | [backmatter](pubs/lovell2005current_backmatter.md)
 
 ### 2004
 
 - Lovell, N.H. et al. (**2004**). **A gradient model of cardiac pacemaker myocytes.** *Prog. Biophys. Mol. Biol.*, 85, 301-323.<br>
   [full text](pubs/lovell2004gradient_full.md) | [main](pubs/lovell2004gradient_main.md) | [appendix](pubs/lovell2004gradient_appendix.md)
+- Tsafnat, G., Cloherty, S.L., Lambert, T.D. (**2004**). **AFL and FRL: abstraction and representation for field interchange** *26Th Annu. Int. Conf. IEEE Eng. Med. Biol. Soc.*, 2, 5419-5422.<br>
+  [full text](pubs/tsafnat2004afl_full.md) | [main](pubs/tsafnat2004afl_main.md) | [backmatter](pubs/tsafnat2004afl_backmatter.md)
+
+### 2003
+
+- Cloherty, S.L., Dokos, S., Lovell, N.H. (**2003**). **A gradient model of the rabbit sinoatrial node** *25Th Annu. Int. Conf. IEEE Eng. Med. Biol. Soc.*, 1, 24-27.<br>
+  [full text](pubs/cloherty2003gradient_full.md) | [main](pubs/cloherty2003gradient_main.md) | [backmatter](pubs/cloherty2003gradient_backmatter.md)
+
+### 2002
+
+- Cloherty, S.L. et al. (**2002**). **Action potential heterogeneity assists frequency entrainment in the intact cardiac pacemaker** *24Th Annu. Conf. IEEE Eng. Med. Biol. Soc. Annu. Fall Meet. Biomed. Eng. Soc.*, 1, 248-249.<br>
+  [full text](pubs/cloherty2002action_full.md) | [main](pubs/cloherty2002action_main.md) | [backmatter](pubs/cloherty2002action_backmatter.md)
 
 ### 2001
 
 - Cloherty, S.L. et al. (**2001**). **Inhomogeneity of action potential waveshape assists frequency entrainment of cardiac pacemaker cells** *IEEE Trans. Biomed. Eng.*, 48, 1108-1115.<br>
   [full text](pubs/cloherty2001inhomogeneity_full.md) | [main](pubs/cloherty2001inhomogeneity_main.md) | [appendix](pubs/cloherty2001inhomogeneity_appendix.md)
+- Cloherty, S.L. et al. (**2001**). **A 2D monodomain model of rabbit sinoatrial node** *23Rd Annu. Int. Conf. IEEE Eng. Med. Biol. Soc.*, 1, 44-47.<br>
+  [full text](pubs/cloherty2001monodomain_full.md) | [main](pubs/cloherty2001monodomain_main.md) | [backmatter](pubs/cloherty2001monodomain_backmatter.md)
+
+### 2000
+
+- Cloherty, S. et al. (**2000**). **Simulated Dynamic Interaction of Coupled Sinoatrial Node Pacemaker Cell Pairs** *22Nd Annu. Int. Conf. IEEE Eng. Med. Biol. Soc.*, 395-397.<br>
+  [full text](pubs/cloherty2000simulated_full.md) | [main](pubs/cloherty2000simulated_main.md) | [backmatter](pubs/cloherty2000simulated_backmatter.md)
 <!-- PUBLICATIONS_END -->
