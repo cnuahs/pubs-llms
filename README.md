@@ -31,6 +31,8 @@ Papers are converted from PDF to Markdown using <a href="https://github.com/cnua
   [full text](pubs/hallum2026improve_full.md) | [main](pubs/hallum2026improve_main.md) | [backmatter](pubs/hallum2026improve_backmatter.md)
 - Higham, S.J. et al. (**2026**). **Boron‐Doped Nano‐Crystalline Coated Carbon Fibers for Phasic Dopamine Sensing** *Adv. Heal. Mater.*, 15, e03945.<br>
   [full text](pubs/higham2026borondoped_full.md) | [main](pubs/higham2026borondoped_main.md) | [backmatter](pubs/higham2026borondoped_backmatter.md) | [appendix](pubs/higham2026borondoped_appendix.md)
+- Schwenk, J.C. et al. (**2026**). **Thalamocortical network dynamics can explain visual impulse responses and perceptual echoes** *Iscience*, 29, 117311.<br>
+  [full text](pubs/schwenk2026thalamocortical_full.md) | [main](pubs/schwenk2026thalamocortical_main.md) | [backmatter](pubs/schwenk2026thalamocortical_backmatter.md)
 
 ### 2025
 
@@ -193,6 +195,10 @@ Papers are converted from PDF to Markdown using <a href="https://github.com/cnua
 
 - Cloherty, S.L., Dokos, S., Lovell, N.H. (**2006**). **A comparison of 1-D models of cardiac pacemaker heterogeneity** *IEEE Trans. Biomed. Eng.*, 53, 164-177.<br>
   [full text](pubs/cloherty2006comparison_full.md) | [main](pubs/cloherty2006comparison_main.md) | [backmatter](pubs/cloherty2006comparison_backmatter.md)
+- Cloherty, S.L., Dokos, S., Lovell, N.H. (**2006**). **Electrical Activity in Cardiac Tissue, Modeling of**.<br>
+  [full text](pubs/cloherty2006electrical_full.md) | [main](pubs/cloherty2006electrical_main.md) | [backmatter](pubs/cloherty2006electrical_backmatter.md)
+- Hallum, L.E. et al. (**2006**). **Functional Optical Imaging of Intrinsic Signals in Cerebral Cortex**.<br>
+  [full text](pubs/hallum2006functional_full.md) | [main](pubs/hallum2006functional_main.md) | [backmatter](pubs/hallum2006functional_backmatter.md)
 - Hallum, L.E. et al. (**2006**). **Psychophysics of Prosthetic Vision: III. Stochastic Rendering, the Phosphene Image, and Perception** *28Th Annu. Int. Conf. IEEE Eng. Med. Biol. Soc.*, 1169-1172.<br>
   [full text](pubs/hallum2006rendering_full.md) | [main](pubs/hallum2006rendering_main.md) | [backmatter](pubs/hallum2006rendering_backmatter.md)
 - Hallum, L.E. et al. (**2006**). **Psychophysics of Prosthetic Vision: II. Stochastic Sampling, the Phosphene Image, and Noise** *28Th Annu. Int. Conf. IEEE Eng. Med. Biol. Soc.*, 1634-1637.<br>
@@ -228,6 +234,8 @@ Papers are converted from PDF to Markdown using <a href="https://github.com/cnua
 
 ### 2001
 
+- Bath, A.R. et al. (**2001**). **Vagal entrainment of heart rate is simulated by an integrator with feedback** *Australas. Phys.\& Eng. Sci. Med.*, 24, 86-94.<br>
+  [full text](pubs/bath2001vagal_full.md) | [main](pubs/bath2001vagal_main.md) | [backmatter](pubs/bath2001vagal_backmatter.md) | [appendix](pubs/bath2001vagal_appendix.md)
 - Cloherty, S.L. et al. (**2001**). **Inhomogeneity of action potential waveshape assists frequency entrainment of cardiac pacemaker cells** *IEEE Trans. Biomed. Eng.*, 48, 1108-1115.<br>
   [full text](pubs/cloherty2001inhomogeneity_full.md) | [main](pubs/cloherty2001inhomogeneity_main.md) | [appendix](pubs/cloherty2001inhomogeneity_appendix.md)
 - Cloherty, S.L. et al. (**2001**). **A 2D monodomain model of rabbit sinoatrial node** *23Rd Annu. Int. Conf. IEEE Eng. Med. Biol. Soc.*, 1, 44-47.<br>
