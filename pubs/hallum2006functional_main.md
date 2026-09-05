@@ -1,6 +1,6 @@
 ```
 @inbook{hallum2006functional,
-  author = {Hallum, L. E. and Chen, S. C. and Cloherty, S. L. and Morley, J. W. and Suaning, G. J. and Lovell, N. H.},
+  author = {Luke E. Hallum and Spencer C. Chen and Shaun L. Cloherty and John W. Morley and Gregg J. Suaning and Nigel H. Lovell},
   title = {Functional Optical Imaging of Intrinsic Signals in Cerebral Cortex},
   booktitle = {Wiley Encyclopedia of Biomedical Engineering},
   year = {2006},

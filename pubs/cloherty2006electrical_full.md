@@ -1,6 +1,6 @@
 ```
 @inbook{cloherty2006electrical,
-  author = {Cloherty, S.L. and Dokos, S. and Lovell, N.H.},
+  author = {Shaun L. Cloherty and Socrates Dokos and Nigel H. Lovell},
   title = {Electrical Activity in Cardiac Tissue, Modeling of},
   booktitle = {Wiley Encyclopedia of Biomedical Engineering},
   year = {2006},
